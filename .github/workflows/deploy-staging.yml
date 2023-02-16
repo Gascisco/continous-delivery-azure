@@ -10,7 +10,6 @@ env:
   ### Replace <username> with GitHub username ###
   ###############################################
   DOCKER_IMAGE_NAME: Gascisco-azure-ttt
-
   AZURE_WEBAPP_NAME: Gascisco-ttt-app
   ###############################################
 
